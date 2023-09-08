@@ -2,6 +2,9 @@
 
 **Project Idea: Inventory Management System**
 
+![image](https://github.com/JustJordanT/go-inventory-mangement-system/assets/38886930/8af4f3ef-c2e4-4cae-85fc-decaac5a7cdf)
+
+
 **Description:**
 Create an inventory management system for a small store using Go. This system will allow you to add, update, delete, and view products in the inventory. You'll use structs to represent products and maps to store and manage the inventory.
 
