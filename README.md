@@ -31,3 +31,9 @@ Create an inventory management system for a small store using Go. This system wi
 9. **Inventory Reports:** Generate reports, such as the total value of the inventory, the most expensive product, or products that are running low in stock.
 
 10. **User Interface:** If you want to make the project more user-friendly, consider building a simple command-line or web-based user interface for interacting with the inventory system.
+
+## Stack
+
+- [Go](Go.dev)
+- [Cobra](https://github.com/spf13/cobra)
+- [Charm](https://github.com/charmbracelet)
