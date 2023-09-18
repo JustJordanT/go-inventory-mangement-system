@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 1,
+    "Name": "Product 1",
+    "Price": 3.0,
+    "Quantity": 1000
+  },
+  {
+    "ID": 2,
+    "Name": "Product 2",
+    "Price": 5.0,
+    "Quantity": 500
+  },
+  {
+    "ID": 3,
+    "Name": "Product 3",
+    "Price": 7.5,
+    "Quantity": 800
+  },
+  {
+    "ID": 4,
+    "Name": "Product 4",
+    "Price": 4.5,
+    "Quantity": 1200
+  },
+  {
+    "ID": 5,
+    "Name": "Product 5",
+    "Price": 6.2,
+    "Quantity": 600
+  },
+  {
+    "ID": 6,
+    "Name": "Product 6",
+    "Price": 2.8,
+    "Quantity": 1500
+  },
+  {
+    "ID": 7,
+    "Name": "Product 7",
+    "Price": 9.0,
+    "Quantity": 300
+  },
+  {
+    "ID": 8,
+    "Name": "Product 8",
+    "Price": 4.0,
+    "Quantity": 900
+  },
+  {
+    "ID": 9,
+    "Name": "Product 9",
+    "Price": 6.8,
+    "Quantity": 700
+  },
+  {
+    "ID": 10,
+    "Name": "Product 10",
+    "Price": 3.2,
+    "Quantity":90
+  }
+]
